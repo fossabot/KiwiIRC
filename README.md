@@ -7,7 +7,8 @@ Our development IRC channel is on the Freenode network, irc.freenode.net #kiwiir
 
 **Developing? Please use the development branch - not the master branch!**
 
-[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/kiwiirc.png)](https://kiwiirc.com/client/irc.freenode.net/#kiwiirc)
+[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/kiwiirc.png)](https://kiwiirc.com/client/irc.freenode.net/#kiwiirc)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FKiwiIRC.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FKiwiIRC?ref=badge_shield)
+
 
 
 ### Installation
@@ -50,3 +51,6 @@ Kiwi IRC has been translated to 25 different languages. The translators can be f
 ### Licence
 GNU Affero
 http://www.gnu.org/licenses/agpl.html
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FKiwiIRC.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FKiwiIRC?ref=badge_large)
